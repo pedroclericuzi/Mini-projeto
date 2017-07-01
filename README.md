@@ -1,2 +1,11 @@
-# Mini-projeto
-Projetinho para praticar alguns conceitos importantes em android
+# ExercicioAndroid
+
+# Status
+
+| Atividade 		 		     | Completou? |
+| ------------------------------ | ---------- |
+| Parse JSON 					 | 	**Sim**   |
+| Lista com asynctask 			 |  **Sim**   |
+| Lista com services e broadcast |  **sim**   |
+| Notificações em primeiro plano |  **não**   |
+| Notificações em segundo plano  |  **não**   |

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">exercicioAndroid</string>
+    <string name="url_json">http://androidjsonteste.esy.es/filmes.json</string>
+</resources>
